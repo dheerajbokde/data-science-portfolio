@@ -8,7 +8,9 @@
 ## Steps:
 1. Clone the project\
 			```
-			git clone https://github.com/dheerajbokde/data-science-portfolio.git\
+			git clone https://github.com/dheerajbokde/data-science-portfolio.git
+			```\
+			```
 			cd dheerajbokde/data-science-portfolio
 			```
 2. Install the requirements required for project\
