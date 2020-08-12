@@ -21,3 +21,5 @@
 			```
 			python face_recognition_attendance.py
 			```
+## Sample Test Results:
+![alt text](https://github.com/dheerajbokde/data-science-portfolio/blob/master/face-recognition-attendance/test_result/screenshot.png)
