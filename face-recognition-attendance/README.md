@@ -2,8 +2,8 @@
 
 ## Prerequists Required:
   ```
-	python 3.7.6
-	```
+  python 3.7.6
+  ```
 
 ## Steps:
 1. Clone the project\
