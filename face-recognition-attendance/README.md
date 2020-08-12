@@ -11,7 +11,7 @@
 			git clone https://github.com/dheerajbokde/data-science-portfolio.git
 			```\
 			```
-			cd dheerajbokde/data-science-portfolio
+			cd data-science-portfolio/face-recognition-attendance
 			```
 2. Install the requirements required for project\
 			```
